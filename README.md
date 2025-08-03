@@ -23,7 +23,11 @@ This project explores how engineered features derived from network sessions can 
 
 ## 🔍 Demo Screenshots
 
-Coming soon…
+<img width="1226" height="887" alt="image" src="https://github.com/user-attachments/assets/23f9961f-3356-4531-9aec-5da5a0e004e4" />
+
+<img width="1141" height="697" alt="image" src="https://github.com/user-attachments/assets/2ae568d4-b996-4b3f-9ea7-4958a3466748" />
+
+
 
 ## ⚙️ How to Run
 
@@ -70,4 +74,4 @@ Pull requests welcome!
 
 ## 🔗 GitHub Repo
 
-https://github.com/jsyamala/net-session-hang-predict
+https://github.com/jsyamala/session_hang_ML_prediction_streamlit_app
